@@ -1,2 +1,2 @@
 # logo
-Logo of the Silesia Java Users Group (SJUG) in different formats
+Logo of the Silesia JUG in different formats
